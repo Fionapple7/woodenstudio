@@ -1,0 +1,29 @@
+1.プロジェクトの作成とアセットの追加
+
+2.リセットCSS(CDN)
+
+3.WEBフォントの登録
+
+4.Font Awesomeの登録
+
+--scss--
+
+5.カラーコード・フォントの登録
+
+6.共通のスタイルの追加
+
+7.Scssの設定
+
+8.WEB制作
+
+BE
+・block
+・Element
+・Modifier
+
+header (block)
+>header__logo (Element)
+>nav(block)
+>>nav-menu (block)
+>>>nav-menu__logo (Element)
+>>btn(block)
